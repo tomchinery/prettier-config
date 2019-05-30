@@ -1,0 +1,11 @@
+{
+  "name": "@tomchinery/prettier-config",
+  "version": "0.0.1",
+  "description": "My personal prettier config for hobby projects.",
+  "main": "index.json",
+  "author": "Tom Chinery <tom@tomchinery.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.17.1"
+  }
+}
