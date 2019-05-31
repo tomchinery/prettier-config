@@ -1,11 +1,16 @@
 {
-  "name": "@tomchinery/prettier-config",
-  "version": "0.0.1",
-  "description": "My personal prettier config for hobby projects.",
-  "main": "index.json",
-  "author": "Tom Chinery <tom@tomchinery.com>",
-  "license": "MIT",
-  "dependencies": {
-    "prettier": "^1.17.1"
-  }
+    "name": "@tomchinery/prettier-config",
+    "version": "0.0.1",
+    "description": "My personal prettier config for hobby projects.",
+    "main": "index.json",
+    "author": "Tom Chinery <tom@tomchinery.com>",
+    "license": "MIT",
+    "dependencies": {
+        "prettier": "^1.17.1"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/tomchinery/prettier-config"
+    },
+    "keywords": ["prettier", "config", "tomchinery"]
 }
