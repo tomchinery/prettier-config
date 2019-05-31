@@ -7,7 +7,7 @@
 **Install**
 
 ```bash
-npm i @tomchinery/eslint-config
+npm i @tomchinery/prettier-config
 ```
 
 **Edit `package.json`**:
